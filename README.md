@@ -7,9 +7,9 @@
 * Make a virtual environment
   > python3 -m venv .
 * Activate it
-  > .\Scripts\activate.ps1 or .\Scripts\activate.bat
+  > .\Scripts\activate.ps1 | .\Scripts\activate.bat
 * Install the Requirements
-  > pip install -r requirements.txt or python3 -m pip install requirements.txt
+  > pip install -r requirements.txt | python3 -m pip install requirements.txt
 
 # Running
 
