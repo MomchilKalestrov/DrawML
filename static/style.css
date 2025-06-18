@@ -24,6 +24,6 @@ button {
 }
 
 #defaultCanvas0 {
-  position: fixed;
+  /*position: fixed;*/
   border: 1px solid black;
 }
